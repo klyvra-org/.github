@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/klyvra-org/klyvra-website/main/assets/logo.png" alt="Klyvra" height="80">
+  <img src="https://raw.githubusercontent.com/klyvra-org/klyvra-website/main/assets/logo_brighter.png" alt="Klyvra" height="80">
 </p>
 
 <h3 align="center">Your Entire Office Stack. Self-Hosted. Unified. Yours.</h3>
