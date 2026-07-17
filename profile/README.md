@@ -10,9 +10,9 @@
 
 ---
 
-**Klyvra** is an open-source, self-hosted productivity suite that replaces your SaaS sprawl with 10 best-in-class tools — unified by a single login.
+**Klyvra** is an open-source, self-hosted productivity suite that replaces your SaaS sprawl with 11 best-in-class tools — unified by a single login.
 
-One command. Ten apps. Zero manual configuration.
+One command. Eleven apps. Zero manual configuration.
 
 ### 🧩 The Suite
 
@@ -20,14 +20,17 @@ One command. Ten apps. Zero manual configuration.
 |------|----------|---------|
 | **Authentik** | Okta, Azure AD | Identity & SSO hub |
 | **Outline** | Notion, Confluence | Wiki & knowledge base |
-| **Mattermost** | Slack, Teams | Team messaging |
+| **Mattermost** | Slack, Teams | Team messaging & calls |
 | **Gitea** | GitHub, GitLab | Git hosting & CI/CD |
 | **Seafile** | Google Drive, OneDrive | File sync & share |
 | **Kimai** | Toggl, Harvest | Time tracking |
 | **Vikunja** | Asana, Trello | Task management |
 | **Vaultwarden** | 1Password, LastPass | Password manager |
-| **Stalwart** | Gmail, Exchange | Mail, calendar & contacts |
+| **Paperless-ngx** | DocuWare, paper piles | Document management & OCR |
+| **Excalidraw** | Miro, FigJam | Whiteboard (SSO-gated) |
 | **OnlyOffice** | Google Docs, MS Office | Collaborative editing |
+
+> Email? Klyvra deliberately integrates your hosted provider instead of running a fragile mail server — built-in `mail.*`/`calendar.*`/`contacts.*` shortcuts link your team straight to it.
 
 ### ✨ Why Klyvra?
 
